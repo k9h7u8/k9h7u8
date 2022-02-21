@@ -1,4 +1,7 @@
 ### Hi Khushi😀 Here👋
+[image](https://user-images.githubusercontent.com/87330142/154930791-8172f07c-527e-4070-9e95-4f01f6a55541.png)
+
+
 
 ### Web Developer
 - 🔭 I’m currently working on Back-end web development.
