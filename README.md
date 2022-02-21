@@ -1,4 +1,4 @@
-### Hi Khushi😀 Here👋
+### Hi Khushi 😀 Here👋
 ### Web Developer
 - 🔭 I’m currently working on Back-end web development.
 - 🌱 I’m currently learning Data Structure and Node.js.
