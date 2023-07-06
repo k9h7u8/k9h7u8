@@ -9,3 +9,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Errors help in learning📚🙇🏻‍♀️.
 - 👩🏻‍💻 My Resume: https://rxresu.me/khushiaggarwal1302/khushi
+- 👩🏼‍🎓 Portfolio: https://portfolio-sooty-seven-97.vercel.app/
