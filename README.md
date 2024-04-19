@@ -1,6 +1,6 @@
 ### Hi Khushi 😀 Here👋
 ### Web Developer
-- 🔭 I’m currently working on Back-end web development.
+- 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning about Blockchain.
 - 📚 Learned about Node.js, express.js, Mongodb and Mysql.
 - 🤔 I’m looking for work in backend development(Node.js).
